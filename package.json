@@ -1,0 +1,29 @@
+{
+  "name": "sk8boards",
+  "version": "1.0.0",
+  "description": "learning how to play with git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joelabelson/sk8boardz.git"
+  },
+  "keywords": [
+    "fun",
+    "fluffy",
+    "super"
+  ],
+  "author": "jla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joelabelson/sk8boardz/issues"
+  },
+  "homepage": "https://github.com/Joelabelson/sk8boardz#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.3",
+    "normalize.css": "^4.1.1"
+  }
+}
